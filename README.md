@@ -1,10 +1,10 @@
 # Como executar o projeto
 
-Este projeto utiliza o Docker Compose para gerenciar os contêineres.
+Este projeto utiliza o Docker para criar imagens e executar contêiners.
 
 ## Pré-requisitos
 
-Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
+Certifique-se de ter o Docker instalado em sua máquina.
 
 ## Executando o projeto
 
